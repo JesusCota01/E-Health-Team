@@ -9,6 +9,7 @@
 **Diagrama de Azure:** ![Diagrama de Azure](https://user-images.githubusercontent.com/87103059/127761360-e4f56d53-eded-44e1-ba73-31aaba21d592.jpeg)
 
 **SLA Compuesto:**
+
 ![SLA Compuesto](https://user-images.githubusercontent.com/87103059/127762264-b74e585b-8ef9-42a5-901d-d95700406331.jpeg)
 
 **TCO 3 años:**
@@ -19,7 +20,6 @@
 ![Captura6](https://user-images.githubusercontent.com/74439320/127762111-ccdf145b-4d5a-4d39-b9fb-e2dd7589ed13.PNG)
 ![Captura7](https://user-images.githubusercontent.com/74439320/127762113-dd25644f-c1f4-4fe6-b134-8d3ece6f68a9.PNG)
 ![Captura8](https://user-images.githubusercontent.com/74439320/127762114-fb62d3da-54d8-436a-a7f9-60060a746326.PNG)
-
 
 **Precio total al mes:**
 
@@ -41,8 +41,9 @@ Utilizamos una base de datos en PostgreSQL para utilizar archivos de diferentes 
 
 ![precio posgre sql](https://user-images.githubusercontent.com/87103059/127761083-41ded442-ba9f-429a-9ac1-1ed77a5a11b0.png)
 
-
 **Tiempo sin disponibilidad a un año:**
+
+![Diagrama en blanco (8)](https://user-images.githubusercontent.com/87103059/127762352-ae9051bf-c018-4ed3-beb9-ecfc047e4aef.jpeg)
 
 **Que te parecio el evento:**
 
