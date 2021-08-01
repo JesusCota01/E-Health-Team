@@ -6,11 +6,11 @@
 
 **Link de TikTok:**
 
-**Diagrama de Azure:** ![Diagrama de Azure](https://user-images.githubusercontent.com/87103059/127761360-e4f56d53-eded-44e1-ba73-31aaba21d592.jpeg)
+**Diagrama de Azure:** ![Diagrama en azure](https://user-images.githubusercontent.com/87103059/127762866-c8e08be5-765f-4cf4-aea9-ccccc1692f7a.jpeg)
 
 **SLA Compuesto:**
 
-![SLA Compuesto](https://user-images.githubusercontent.com/87103059/127762264-b74e585b-8ef9-42a5-901d-d95700406331.jpeg)
+![SLA Compuesto](https://user-images.githubusercontent.com/87103059/127762832-c0576fe2-212c-40ba-a82c-a0753fa871d7.jpeg)
 
 **TCO 3 años:**
 
@@ -39,13 +39,13 @@ Al tener en cuenta la página web que usarán los doctores, tenemos que tener en
 
 ![precio app service](https://user-images.githubusercontent.com/87103059/127759438-4897e0f3-907d-4eb3-86f8-e5fcdf8ce21a.png)
 
-Utilizamos una base de datos en PostgreSQL para utilizar archivos de diferentes tipos en la base de datos
+Utilizamos una base de datos en MySQL para utilizar archivos de diferentes tipos en la base de datos
 
 ![precio posgre sql](https://user-images.githubusercontent.com/87103059/127761083-41ded442-ba9f-429a-9ac1-1ed77a5a11b0.png)
 
 **Tiempo sin disponibilidad a un año:**
 
-![TIEMPO sin disponibilidad](https://user-images.githubusercontent.com/87103059/127762352-ae9051bf-c018-4ed3-beb9-ecfc047e4aef.jpeg)
+![tiempo sin disponibilidad](https://user-images.githubusercontent.com/87103059/127762806-327c07a8-59ce-4dc6-b0c6-2c85cfb21ae7.jpeg)
 
 **Que te parecio el evento:** Gran profesionalismo, gran aprendizaje, mucha diversión y sobre todo una oportunidad única en la vida.
 
