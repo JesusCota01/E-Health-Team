@@ -28,7 +28,7 @@ Al tener en cuenta la página web que usarán los doctores, tenemos que tener en
 
 ![precio app service](https://user-images.githubusercontent.com/87103059/127759438-4897e0f3-907d-4eb3-86f8-e5fcdf8ce21a.png)
 
-
+Utilizamos una base de datos en PostgreSQL para utilizar archivos de diferentes tipos en la base de datos
 
 ![precio posgre sql](https://user-images.githubusercontent.com/87103059/127761083-41ded442-ba9f-429a-9ac1-1ed77a5a11b0.png)
 
