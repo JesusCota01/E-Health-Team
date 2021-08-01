@@ -16,13 +16,12 @@
 
 TODOS LOS PRECIOS AQUÍ ESTABLECIDOS SE MUESTRAN EN PESOS MEXICANOS (MXN)
 
-![Captura1](https://user-images.githubusercontent.com/74439320/127762098-804ef0e1-c3ad-47c4-a969-8e5eff5e7b64.PNG)
-![Captura2](https://user-images.githubusercontent.com/74439320/127762101-b4b481a2-39ff-42b6-afe4-5ee7b9450659.PNG)
-![Captura4](https://user-images.githubusercontent.com/74439320/127762105-f8097a50-ac01-48e6-b92c-c027946f347d.PNG)
-![Captura5](https://user-images.githubusercontent.com/74439320/127762106-b2d9a646-e798-477e-bc44-438e21f6b34b.PNG)
-![Captura6](https://user-images.githubusercontent.com/74439320/127762111-ccdf145b-4d5a-4d39-b9fb-e2dd7589ed13.PNG)
-![Captura7](https://user-images.githubusercontent.com/74439320/127762113-dd25644f-c1f4-4fe6-b134-8d3ece6f68a9.PNG)
-![Captura8](https://user-images.githubusercontent.com/74439320/127762114-fb62d3da-54d8-436a-a7f9-60060a746326.PNG)
+![Captura1](https://user-images.githubusercontent.com/74439320/127763179-03caa006-0ec2-4853-af0c-36af10383249.PNG)
+![Captura2](https://user-images.githubusercontent.com/74439320/127763182-929c998f-cce3-437e-bece-9045e731971e.PNG)
+![Captura3](https://user-images.githubusercontent.com/74439320/127763184-81a6dae6-6915-47f5-995e-b321f5e23bc4.PNG)
+![Captura4](https://user-images.githubusercontent.com/74439320/127763186-79f0f3cc-d676-4e33-abf9-3b73737976f4.PNG)
+![Captura5](https://user-images.githubusercontent.com/74439320/127763187-798f910f-4a96-4f69-a979-b76cadb42d50.PNG)
+
 
 **Precio total al mes:**
 
