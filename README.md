@@ -13,6 +13,7 @@
 ![SLA Compuesto](https://user-images.githubusercontent.com/87103059/127762264-b74e585b-8ef9-42a5-901d-d95700406331.jpeg)
 
 **TCO 3 años:**
+TODOS LOS PRECIOS AQUÍ ESTABLECIDOS SE MUESTRAN EN PESOS MEXICANOS (MXN)
 
 ![Captura1](https://user-images.githubusercontent.com/74439320/127762098-804ef0e1-c3ad-47c4-a969-8e5eff5e7b64.PNG)
 ![Captura2](https://user-images.githubusercontent.com/74439320/127762101-b4b481a2-39ff-42b6-afe4-5ee7b9450659.PNG)
