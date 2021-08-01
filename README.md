@@ -9,6 +9,7 @@
 **Diagrama de Azure:** ![Diagrama de Azure](https://user-images.githubusercontent.com/87103059/127761360-e4f56d53-eded-44e1-ba73-31aaba21d592.jpeg)
 
 **SLA Compuesto:**
+![SLA Compuesto](https://user-images.githubusercontent.com/87103059/127762264-b74e585b-8ef9-42a5-901d-d95700406331.jpeg)
 
 **TCO 3 años:**
 ![Captura1](https://user-images.githubusercontent.com/74439320/127762098-804ef0e1-c3ad-47c4-a969-8e5eff5e7b64.PNG)
