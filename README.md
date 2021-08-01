@@ -2,7 +2,7 @@
 
 **Nombre del proyecto:** Plataforma de unificación y automatización de seguimiento médico.
 
-**Descripción del proyecto:** Plataforma que unifica y automatiza el protocolo de seguimiento médico, esto siendo el proceso de toma de análisis y recibimiento de tratamiento que normalmente lleva mucho tiempo con el procedimiento actual del seguro social. Mediante una I.A. y una página web se determina el seguimiento que se le debe de dar a cada paciente y así evitamos intermediarios innecesarios. 
+**Descripción del proyecto:** Plataforma que unifica y automatiza el protocolo de seguimiento médico, esto siendo el proceso de toma de análisis y recibimiento de tratamiento que normalmente lleva mucho tiempo con el procedimiento actual del seguro social. Mediante una I.A. y una página web se determina el seguimiento que se le debe de dar a cada paciente y así evitamos intermediarios innecesarios, además de que cada usuario tendrá un record de su historial clinico. 
 
 **Link de TikTok:**
 
