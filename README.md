@@ -4,7 +4,7 @@
 
 **Descripción del proyecto:** Plataforma que unifica y automatiza el protocolo de seguimiento médico, esto siendo el proceso de toma de análisis y recibimiento de tratamiento que normalmente lleva mucho tiempo con el procedimiento actual del seguro social. Mediante una I.A. y una página web se determina el seguimiento que se le debe de dar a cada paciente y así evitamos intermediarios innecesarios, además de que cada usuario tendrá un record de su historial clinico. 
 
-**Link de TikTok:**
+**Link de TikTok:** https://www.tiktok.com/@jesusangelcotalopez/video/6991474715755810054?lang=es&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6916735205533468166
 
 **Diagrama de Azure:** ![Diagrama en azure](https://user-images.githubusercontent.com/87103059/127762866-c8e08be5-765f-4cf4-aea9-ccccc1692f7a.jpeg)
 
