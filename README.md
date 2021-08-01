@@ -6,15 +6,13 @@ Descripción del proyecto: Plataforma que unifica y automatiza el protocolo de s
 
 Link de TikTok: 
 
-Diagrama de Azure:
-
-[Diagrama en blanco (5)](https://user-images.githubusercontent.com/87103059/127759260-6b9d23b3-96a1-4a12-a6e4-1b5c64824daa.jpeg)
+Diagrama de Azure: ![Diagrama de Azure](https://user-images.githubusercontent.com/87103059/127759260-6b9d23b3-96a1-4a12-a6e4-1b5c64824daa.jpeg)
 
 SLA Compuesto:
 
 TCO 3 años:
 
-Precio total al mes:
+Precio total al mes: 
 
 Tiempo sin disponibilidad a un año:
 
