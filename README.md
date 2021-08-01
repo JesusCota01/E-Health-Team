@@ -13,6 +13,7 @@
 ![SLA Compuesto](https://user-images.githubusercontent.com/87103059/127762264-b74e585b-8ef9-42a5-901d-d95700406331.jpeg)
 
 **TCO 3 años:**
+
 ![Captura1](https://user-images.githubusercontent.com/74439320/127762098-804ef0e1-c3ad-47c4-a969-8e5eff5e7b64.PNG)
 ![Captura2](https://user-images.githubusercontent.com/74439320/127762101-b4b481a2-39ff-42b6-afe4-5ee7b9450659.PNG)
 ![Captura4](https://user-images.githubusercontent.com/74439320/127762105-f8097a50-ac01-48e6-b92c-c027946f347d.PNG)
@@ -32,7 +33,6 @@ En México se detectan aproximadamente 70 millones de casos de enfermedades como
 Por lo que al mes en el servicio de Azure Cognitive Service el costo sería el siguiente: 
 ![precio text](https://user-images.githubusercontent.com/87103059/127761291-67d154f3-fcb4-49a0-aef8-70c6d62df9a1.png)
 
-
 Al tener en cuenta la página web que usarán los doctores, tenemos que tener en cuenta que serán miles, quizá millones en todo el país, por lo que tenemos con la opción de más potencia que nos ofrece Azure en app service. Además, utilizamos como sistema operativo Linux para ahorrar dinero y que el costo mensual sea inferior. 
 
 ![precio app service](https://user-images.githubusercontent.com/87103059/127759438-4897e0f3-907d-4eb3-86f8-e5fcdf8ce21a.png)
@@ -43,7 +43,7 @@ Utilizamos una base de datos en PostgreSQL para utilizar archivos de diferentes 
 
 **Tiempo sin disponibilidad a un año:**
 
-![Diagrama en blanco (8)](https://user-images.githubusercontent.com/87103059/127762352-ae9051bf-c018-4ed3-beb9-ecfc047e4aef.jpeg)
+![TIEMPO sin disponibilidad](https://user-images.githubusercontent.com/87103059/127762352-ae9051bf-c018-4ed3-beb9-ecfc047e4aef.jpeg)
 
-**Que te parecio el evento:**
+**Que te parecio el evento:** Gran profesionalismo, gran aprendizaje, mucha diversión y sobre todo una oportunidad única en la vida.
 
